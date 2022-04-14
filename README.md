@@ -1,2 +1,2 @@
 # git-hub-challenge
-desafio dio
+Repositorio criado para desafio de projetos
